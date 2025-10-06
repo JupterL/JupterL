@@ -8,7 +8,6 @@
 ## Sobre Mim
 
 |  |  |
-| :--- | :--- |
 | **Nome** | Lorena Miriane Bregoch |
 | **Idade** | 24 anos |
 | **Localização** | Curitiba, PR  |
