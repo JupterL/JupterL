@@ -50,8 +50,8 @@
 ## 💬 Entre em Contato
 
 <p align="center">
-  <a href="SEU_LINKEDIN_AQUI">
+  <a href="(https://www.linkedin.com/in/lorena-miriane-bregoch-550a79232/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href
+
