@@ -7,10 +7,10 @@
 
 ## Sobre Mim
 
-|  |  |
+| :--- | :--- |
 | **Nome** | Lorena Miriane Bregoch |
 | **Idade** | 24 anos |
-| **Localização** | Curitiba, PR  |
+| **Localização** | Curitiba, PR 📍 |
 | **Estudos** | Análise e Desenvolvimento de Sistemas (1º Período) |
 | **Experiência** | Analista de Suporte N2 e Apoio ao Time de Produtos |
 
