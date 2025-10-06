@@ -6,7 +6,6 @@
 ---
 
 ## Sobre Mim
-
 |  |  |
 | :--- | :--- |
 | **Nome** | Lorena Miriane Bregoch |
