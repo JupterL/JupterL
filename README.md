@@ -6,7 +6,10 @@
 ---
 
 ## Sobre Mim
-|  |  |
+
+## 👩‍💻 Sobre Mim
+
+| &#x200B; | &#x200B; |
 | :--- | :--- |
 | **Nome** | Lorena Miriane Bregoch |
 | **Idade** | 24 anos |
