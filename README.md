@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍💻 Sobre Mim
+##  Sobre Mim
 
 - **Nome**: Lorena Miriane Bregoch
 - **Idade**: 24 anos
@@ -13,13 +13,13 @@
 - **Estudos**: Análise e Desenvolvimento de Sistemas (1º Período)
 - **Experiência**: Analista de Suporte N2 e Apoio ao Time de Produtos
 
-### 💡 Foco Atual
+###  Foco Atual
 
 > Combinando minha experiência em **Suporte N2** e **Produto** com o estudo aprofundado em **Desenvolvimento de Sistemas**, com foco em **Node.js** e **C#** para migração de carreira.
 
 ---
 
-## 🛠 Tecnologias
+##  Tecnologias
 
 <p align="center">
   <img alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -48,7 +48,7 @@
 
 ---
 
-## 💬 Entre em Contato
+##  Entre em Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lorena-miriane-bregoch-550a79232/">
