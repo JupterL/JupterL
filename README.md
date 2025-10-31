@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou a Lorena! 🌸</h1>
-  <p>Desenvolvedora | Analista de Suporte N2 👻💜</p>
+  <p>Futura Desenvolvedora | Analista de Suporte N2 👻💜</p>
 </div>
 
 ---
