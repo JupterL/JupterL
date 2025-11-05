@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./gastly-gif.gif" width="160" alt="Gastly animado" />
+  <img src="./gastly-gif.gif" width="160" alt="Gastly animado" widht:"300px";/>
   <h1>Olá, eu sou a Lorena!</h1>
   <p>Futura Desenvolvedora • Analista de Suporte N2</p>
 </div>
