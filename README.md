@@ -10,13 +10,13 @@
 <br>
 
  💫Sobre Mim<br>
- Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo** (1º período)
+ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (1º período)
  <br>
  
- Com mais de 3 anos de experiência na área de tecnologia, atuo como Analista de Suporte N2, conectando diferentes times e     garantindo o funcionamento do que há por trás dos sistemas. Já passei por infraestrutura, o que me deu uma base técnica, 
+ Com mais de 3 anos de experiência na área de tecnologia, atuo como Analista de Suporte N2, conectando diferentes times garantindo o funcionamento do que há por trás dos sistemas. Já passei por infraestrutura, o que me deu uma base técnica, 
  e hoje também ofereço apoio ao time de Produto, ajudando na ponte entre o suporte e o desenvolvimento.  
- Atualmente estou estudando JavaScript, Node.js, Front-End e modelagem de dados,     além de explorar o mundo dos containers com Docker.
- Meu foco é unir o que aprendo no código com a visão prática de quem lida diariamente com usuários e sistemas reais.
+ Atualmente estou estudando JavaScript, Node.js, Front-End e modelagem de dados, além de explorar o mundo dos containers com Docker.
+ Meu objetivo é canalizar essa visão prática diretamente para o desenvolvimento Full Stack:** atuar na construção da lógica da aplicação, na otimização de projetos e no design eficiente de bancos de dados.
  
 
 <br>
