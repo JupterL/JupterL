@@ -5,7 +5,7 @@
 
 <td align="left" width="60%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+<3" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜" alt="Typing SVG"/>
 
 <br>
 
