@@ -6,7 +6,6 @@
   <h1>Olá, eu sou a Lorena 👋</h1>
   <p>
     Futura Desenvolvedora | Analista de Suporte N2  
-    <br>Entre códigos, café e uma boa dose de curiosidade ☕
   </p>
 
 </div>
