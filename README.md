@@ -55,3 +55,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/0U7bWQK9s75PjRKcHz/giphy.gif" width="200" alt="Loading roxinho" />
+  <br><br>
+  <sub>🌀 <i>Carregando aprendizado...</i> 💜</sub>
+</div>
+
