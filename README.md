@@ -1,9 +1,6 @@
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="40%" align="center">
-        <img src="./stud.jpg" alt="Lorena estudando" width="200"/>
-      </td>
       <td width="60%" align="left">
         <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜" alt="Typing SVG" />
         <br><br>
@@ -35,6 +32,9 @@
         <a href="https://www.linkedin.com/in/lorena-miriane-bregoch-550a79232/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn"/>
         </a>
+      </td>
+      <td width="40%" align="center">
+        <img src="./stud.jpg" alt="Lorena estudando" width="200"/>
       </td>
     </tr>
   </table>
