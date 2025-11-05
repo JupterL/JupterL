@@ -64,11 +64,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
 </div>
 
-##  Contribution Streak
+##  Contribuições Recentes
 
 <div align="center">
-<img src="https://github-streak-stats.demolab.com/?user=JupterL&theme=dracula&hide_border=false" 
-     alt="GitHub Streak Stats" />
+<img src="https://github-contributions-svg.vercel.app/?username=JupterL&theme=dracula&title=Atividade+Anual&area=true&ring=C77DFF&color=C77DFF"
+     alt="GitHub Contributions Chart" />
 </div>
 
 ##  GitHub Trophies
