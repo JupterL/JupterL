@@ -49,6 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/JupterL/commit-snake/raw/main/snake.svg" />
+</div>
+
 ---
 
 <div align="center">
