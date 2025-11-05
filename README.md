@@ -12,6 +12,7 @@
 💻 Descrição:<br>
  Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo** (1º período)
  <br>
+ 
  Com mais de 3 anos de experiência na área de tecnologia, atuo como Analista de Suporte N2, conectando diferentes times e     garantindo o funcionamento do que há por trás dos sistemas. Já passei por infraestrutura, o que me deu uma base técnica, 
  e hoje também ofereço apoio ao time de Produto, ajudando na ponte entre o suporte e o desenvolvimento.  
  Atualmente estou migrando para a área de desenvolvimento, estudando JavaScript, Node.js, Front-End e modelagem de dados,     além de explorar o mundo dos containers com Docker.
