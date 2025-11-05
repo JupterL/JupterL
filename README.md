@@ -56,14 +56,29 @@
 
 ---
 
-## 📊 GitHub Stats
+
+##  GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=dracula&hide_border=false" 
-     height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" 
-     height="150" alt="Top Languages"/>
+##  Contribution Streak
+
+<div align="center">
+<img src="https://github-streak-stats.demolab.com/?user=JupterL&theme=dracula&hide_border=false" 
+     alt="GitHub Streak Stats" />
+</div>
+
+##  GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JupterL&theme=dracula&no-frame=true&no-bg=true" 
+     alt="GitHub Trophies" />
+</div>
+
+---
 </div>
 
 ---
