@@ -5,14 +5,17 @@
 
 <td align="left" width="60%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜;Futura+Dev+Fullstack;Apaixonada+por+tecnologia+e+café!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜;" alt="Typing SVG" />
 
 <br><br>
 
-💻 **Futura Desenvolvedora Fullstack**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)  
-🔧 Experiência com **Suporte N2**, **API**, **Node.js** e **C#**  
-☕ Café + Código = 💜  
+💻 Descrição:<br>
+ Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo** (1º período)  
+ Com mais de 3 anos de experiência na área de tecnologia, atuo como Analista de Suporte N2, conectando diferentes times e     garantindo o funcionamento do que há por trás dos sistemas. Já passei por infraestrutura, o que me deu uma base técnica, 
+ e hoje também ofereço apoio ao time de Produto, ajudando na ponte entre o suporte e o desenvolvimento.  
+ Atualmente estou migrando para a área de desenvolvimento, estudando JavaScript, Node.js, Front-End e modelagem de dados,     além de explorar o mundo dos containers com Docker.
+ Meu foco é unir o que aprendo no código com a visão prática de quem lida diariamente com usuários e sistemas reais.
+ 
 
 <br>
 
