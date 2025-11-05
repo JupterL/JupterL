@@ -52,6 +52,23 @@
 <img src="./stud.jpg" alt="Lorena estudando" width="250"/>
 </td>
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="./gastly-gif.gif" width="180" alt="Gastly flutuando" />
+  <br><br>
+  <sub>🌀 <i>Aprendizado em andamento...</i> 💜</sub>
+</div>
+
+
 </tr>
 </table>
 </div>
