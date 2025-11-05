@@ -67,5 +67,5 @@
   <!-- Gastly animado no rodapé -->
   <img src="https://media.giphy.com/media/h3u7lFv4t6bY0/giphy.gif" width="160" alt="Gastly flutuando"/>
   <br><br>
-  <sub>“Sempre aprendendo — e deixando o código um pouco mais assustador (no bom sentido).”</sub>
+  <sub>“Sempre aprendendo”</sub>
 </div>
