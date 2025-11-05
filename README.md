@@ -1,17 +1,10 @@
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" style="vertical-align: middle;">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=C77DFF&center=false&vCenter=true&width=435&lines=Oi!+Eu+sou+a+Lorena+💜" alt="Typing SVG" />
-        <p>
-           <strong>Futura Dev Fullstack</strong><br>
-           Apaixonada por tecnologia e café (muito café).<br>
-           Sempre aprendendo — um bug por vez!
-        </p>
-      </td>
-      <td align="center" style="vertical-align: middle;">
-        <img src="https://media.giphy.com/media/0U7bWQK9s75PjRKcHz/giphy.gif" width="220" alt="Loading Roxinho">
-      </td>
-    </tr>
-  </table>
-</div>
+<h1 align="center">
+  <img src="https://i.imgur.com/H7r0Tgb.gif" width="35"/>
+  <span style="font-family: 'Press Start 2P', monospace; color: #c77dff;">
+    Oi! Eu sou a Lorena 💜
+  </span>
+</h1>
+
+<p align="center">
+  <img src="./gastly-gif.gif" width="220" alt="Gastly animado">
+</p>
