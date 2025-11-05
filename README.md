@@ -1,58 +1,57 @@
-<!-- Header com banner animado -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=C77DFF&size=16&center=true&vCenter=true&width=600&lines=Oi!+Eu+sou+a+Lorena+💜;Futura+Dev+Fullstack;Apaixonada+por+tecnologia+e+café!" alt="Typing animation">
-</p>
+<div align="center">
 
-<!-- Seção Sobre mim -->
-## 💫 Sobre mim
-Sou uma pessoa curiosa e criativa, apaixonada por tecnologia e por resolver problemas com código.  
-Atualmente estudando para me tornar **Desenvolvedora Fullstack**, com foco em **JavaScript**, **React**, **Node.js** e **DevOps**.  
+<table>
+<tr>
 
-📍 Curitiba - PR  
-☕ Viciada em café e em aprender algo novo todo dia.  
-💜 Sempre evoluindo — um bug por vez.
+<td align="left" width="60%">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜;Futura+Dev+Fullstack;Apaixonada+por+tecnologia+e+café!" alt="Typing SVG" />
 
-<!-- Seção de estudos -->
-## 📚 Estudando no momento
-<p align="center">
-  <img src="./stud.jpg" width="300" alt="Lorena estudando">
-</p>
+<br><br>
 
-Atualmente estou me aprofundando em:
--  **Desenvolvimento Fullstack (HTML, CSS, JS, React, Node.js)**
--  **DevOps (Docker, Containers, CI/CD)**
--  **Lógica de Programação e Estruturas de Dados**
+💻 **Futura Desenvolvedora Fullstack**  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (1º período)  
+🔧 Experiência com **Suporte N2**, **API**, **Node.js** e **C#**  
+☕ Café + Código = 💜  
 
----
+<br>
 
-<!-- Tecnologias -->
-## 💻 Tecnologias e Ferramentas
+**Tecnologias e Ferramentas:**  
+<img alt="Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="Node.js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="JavaScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="CSharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img alt="Azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="VS Code" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="SQL Server" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,docker,vscode" />
-</p>
+</td>
 
----
+<td align="center" width="40%">
+<img src="./stud.jpg" alt="Lorena estudando" width="250"/>
+</td>
 
-<!-- Contato -->
-## 📫 Como me encontrar
-<p align="center">
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c77dff?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/seulinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-8a2be2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<!-- Rodapé com Gastly e loading -->
-<p align="center">
-  <img src="./gastly-gif.gif" width="200" alt="Gastly animado"><br>
-  <img src="https://media.giphy.com/media/0U7bWQK9s75PjRKcHz/giphy.gif" width="100" alt="Loading">
-  <br>
-  <sub>🌀 <i>Carregando aprendizado...</i> 💜</sub>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=codeSTACKr&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/0U7bWQK9s75PjRKcHz/giphy.gif" width="180" alt="Loading roxinho"/>
+<br><br>
+<sub>🌀 <i>Carregando aprendizado...</i> 💜</sub>
+</div>
