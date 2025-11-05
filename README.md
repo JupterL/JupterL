@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜;" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 💻 Descrição:<br>
  Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo** (1º período)
