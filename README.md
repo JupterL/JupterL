@@ -1,12 +1,7 @@
 <div align="center">
-
-
-
 <table>
 
 <tr>
-
-
 
 <td align="left" width="60%">
 
@@ -66,7 +61,7 @@
 
 
 <td align="center" width="40%">
-<img src="./stud.jpg" alt="Lorena estudando" width="250"/>
+<img src="./stud.jpg" alt="Lorena estudando" width="400"/>
 </td>
 
 </tr>
