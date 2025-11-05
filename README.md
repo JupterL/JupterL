@@ -51,10 +51,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=dracula&hide_border=false" 
-     height="150" alt="GitHub Stats"/>
+     height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" 
-     height="150" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&hide_border=false" 
+     height="165" alt="Top Languages"/>
 </div>
 
 ---
