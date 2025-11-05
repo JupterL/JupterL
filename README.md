@@ -9,7 +9,7 @@
 
 <br>
 
-💻 Descrição:<br>
+ 💫Sobre Mim<br>
  Estudante de **Análise e Desenvolvimento de Sistemas na Universidade Positivo** (1º período)
  <br>
  
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=codeSTACKr&hide_border=false" height="150" alt="stats graph" />
