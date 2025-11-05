@@ -11,7 +11,7 @@
         Atualmente estou estudando JavaScript, Node.js, Front-End e modelagem de dados, além de explorar o mundo dos containers com Docker.
         <br><br>
         Meu objetivo é canalizar essa visão prática diretamente para o desenvolvimento Full Stack: atuar na construção da lógica da aplicação, na otimização de projetos e no         design eficiente de bancos de dados.
-        <br>
+        <br><br>
        Tecnologias e Ferramentas:<br>
         <img alt="Windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
         <img alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -24,7 +24,7 @@
         <img alt="VS Code" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
         <img alt="SQL Server" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
         <br><br>
-        **Entre em contato comigo:**<br>
+        Entre em contato comigo:<br>
         <a href="mailto:lorenabregoch@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail"/>
         </a>
