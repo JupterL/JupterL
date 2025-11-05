@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Haunter animado no topo -->
-  <img src="https://media.tenor.com/mOeM_oxKz9MAAAAM/haunter-pokemon.gif" width="180" alt="Haunter aplaudindo"/>
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="180" alt="Haunter aplaudindo"/>
 
   <h1>Olá, eu sou a Lorena 👋</h1>
   <p>
@@ -66,7 +66,7 @@
 
 <div align="center">
   <!-- Gastly animado no rodapé -->
-  <img src="https://media.tenor.com/T3yK0bQ9Oa8AAAAM/gastly-pokemon.gif" width="160" alt="Gastly flutuando"/>
+  <img src="https://media.giphy.com/media/h3u7lFv4t6bY0/giphy.gif" width="160" alt="Gastly flutuando"/>
   <br><br>
   <sub>“Sempre aprendendo — e deixando o código um pouco mais assustador (no bom sentido).”</sub>
 </div>
