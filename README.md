@@ -47,11 +47,14 @@
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=codeSTACKr&hide_border=false" color="purple" height="150" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=codeSTACKr&hide_border=false" color="purple" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=dracula&hide_border=false" 
+     height="150" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" 
+     height="150" alt="Top Languages"/>
 </div>
 
 ---
