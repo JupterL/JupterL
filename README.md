@@ -70,7 +70,7 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/0U7bWQK9s75PjRKcHz/giphy.gif" width="180" alt="Loading roxinho"/>
+<img src="./gastly-gif.gif" width="180" alt="Gastly flutuando" />
 <br><br>
-<sub>🌀 <i>Carregando aprendizado...</i> 💜</sub>
+<sub>🌀 <i>Aprendizado em andamento...</i> 💜</sub>
 </div>
