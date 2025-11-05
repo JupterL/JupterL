@@ -52,6 +52,7 @@
 <img src="./stud.jpg" alt="Lorena estudando" width="250"/>
 </td>
 
+---
 ## GitHub Stats
 
 <div align="center">
@@ -59,8 +60,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
 </div>
-
----
 
 <div align="center">
   <img src="./gastly-gif.gif" width="180" alt="Gastly flutuando" />
