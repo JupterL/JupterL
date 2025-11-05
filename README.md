@@ -1,19 +1,19 @@
 <div align="center">
 
-  <!-- Gastly no topo -->
-  <img src="https://media.tenor.com/T3yK0bQ9Oa8AAAAM/gastly-pokemon.gif" width="160" alt="Gastly flutuando"/>
+  <!-- Haunter animado no topo -->
+  <img src="https://media.tenor.com/mOeM_oxKz9MAAAAM/haunter-pokemon.gif" width="180" alt="Haunter aplaudindo"/>
 
   <h1>Olá, eu sou a Lorena 👋</h1>
   <p>
     Futura Desenvolvedora | Analista de Suporte N2  
-    <br>Entre códigos, café e fantasmas de código 👻
+    <br>Entre códigos, café e uma boa dose de curiosidade ☕
   </p>
 
 </div>
 
 ---
 
-## 🜲 Sobre Mim
+## Sobre Mim
 
 - **Nome:** Lorena Miriane Bregoch  
 - **Idade:** 24 anos  
@@ -21,11 +21,11 @@
 - **Estudos:** Análise e Desenvolvimento de Sistemas (1º período)  
 - **Experiência:** Analista de Suporte N2 e apoio ao time de Produto  
 
-> Unindo experiência em **Suporte Técnico** e **Produto** com estudos em **Node.js** e **C#**, focando em desenvolvimento e automação.
+> Unindo minha experiência em **Suporte Técnico** e **Produto** com estudos em **Node.js** e **C#**, em busca de evoluir como desenvolvedora.
 
 ---
 
-## ⚙️ Tecnologias
+## Tecnologias
 
 <p align="center">
   <img alt="Windows" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true" height="150" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌐 Contato
+## Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lorena-miriane-bregoch-550a79232/">
@@ -65,8 +65,8 @@
 ---
 
 <div align="center">
-  <!-- Haunter aplaudindo -->
-  <img src="https://media.tenor.com/mOeM_oxKz9MAAAAM/haunter-pokemon.gif" width="160" alt="Haunter aplaudindo"/>
+  <!-- Gastly animado no rodapé -->
+  <img src="https://media.tenor.com/T3yK0bQ9Oa8AAAAM/gastly-pokemon.gif" width="160" alt="Gastly flutuando"/>
   <br><br>
-  <sub>“Sempre aprendendo — e às vezes rindo dos bugs junto com o Haunter.”</sub>
+  <sub>“Sempre aprendendo — e deixando o código um pouco mais assustador (no bom sentido).”</sub>
 </div>
