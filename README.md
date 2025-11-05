@@ -61,24 +61,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JupterL&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats"/>
+ <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JupterL&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages"/>
-</div>
-
-##  Contribuições Recentes
-
-<div align="center">
-<img src="https://github-contributions-svg.vercel.app/?username=JupterL&theme=dracula&title=Atividade+Anual&area=true&ring=C77DFF&color=C77DFF"
-     alt="GitHub Contributions Chart" />
-</div>
-
-##  GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JupterL&theme=dracula&no-frame=true&no-bg=true" 
-     alt="GitHub Trophies" />
-</div>
-
----
 </div>
 
 ---
