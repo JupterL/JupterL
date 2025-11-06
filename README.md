@@ -50,10 +50,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/JupterL/commit-snake/raw/main/snake.svg" />
-</div>
----
-<div align="center">
   <img src="https://JupterL.github.io/JupterL/github-contribution-grid-snake.svg" />
 </div>
 
