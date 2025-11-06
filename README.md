@@ -53,12 +53,10 @@
   <img src="https://github.com/JupterL/commit-snake/raw/main/snake.svg" />
 </div>
 ---
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JupterL/JupterL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JupterL/JupterL/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JupterL/JupterL/output/github-contribution-grid-snake.svg">
-</picture>
----
+<div align="center">
+  <img src="https://JupterL.github.io/JupterL/github-contribution-grid-snake.svg" />
+</div>
+
 
 <div align="center">
   <img src="./gastly-gif.gif" width="180" alt="Gastly flutuando" />
