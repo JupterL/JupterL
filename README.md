@@ -5,7 +5,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=2000&color=C77DFF&width=435&lines=Oi!+Eu+sou+a+Lorena+💜" alt="Typing SVG" />
         <br>
         💫 Sobre Mim
-        Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (1º período)
+        Estudante de Análise e Desenvolvimento de Sistemas na Universidade Positivo (2º período)
         <br><br>
         Com mais de 3 anos de experiência na área de tecnologia, atuo como Analista de Suporte N2 e Produto, conectando diferentes times garantindo o funcionamento do que há por trás          dos sistemas. Já passei por infraestrutura, o que me deu uma base técnica, e hoje também ofereço apoio ao time de Produto, ajudando na ponte entre o suporte e o              desenvolvimento.  
         Atualmente estou estudando JavaScript, Node.js, Front-End e modelagem de dados, além de explorar o mundo dos containers com Docker.
